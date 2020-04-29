@@ -10,7 +10,7 @@ VGA_PROJECT_zip_lpc1768.zip - attributes: demo of Ivo van Poorten's VGA C librar
   
   prepared by: Jixin Zheng
 
-FPGA Project.zip - attributes: so many FPGA VGA projects online that I hate to call solely my own work
+FPGA Project.zip - attributes: so many FPGA VGA projects online that I hate to call this solely my own work
   
   prepared by: John Tarasidis
   
