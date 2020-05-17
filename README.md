@@ -1,6 +1,8 @@
 # mbed-vga
 A case study of the implementation of time critical events using LPC1768 mbed peripherals.  The VGA graphics standard is the target exercise.
 
+Refer to the wiki for project details: https://github.com/tarasjg/mbed-vga/wiki
+
 ### Directory and Credit
 VGA_uvision6_lpc1768.zip - attributes: original code, main project code
   
